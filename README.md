@@ -3,5 +3,5 @@ Meu primeiro projeto em Python usando uma API (freecurrencyapi) para receber os 
 
 Para o codigo funcionar você precisa de uma API Key do https://app.freecurrencyapi.com/ que é disponibilizada gratuitamente após a criação de conta.
 Após a criação da conta você terá acesso sua Default Key.
-Copie a key e adicione no arquivo .env
+Copie a key e adicione no arquivo .env para não vazar sua key.
 Pode rodar o codigo.
