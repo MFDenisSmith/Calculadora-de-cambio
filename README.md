@@ -5,3 +5,5 @@ Para o codigo funcionar você precisa de uma API Key do https://app.freecurrency
 Após a criação da conta você terá acesso sua Default Key.
 Copie a key e adicione no arquivo .env para não vazar sua key.
 Pode rodar o codigo.
+
+Provavelmente só funciona se baixar, mas agradeço recomendações por mais que esse projeto seja só pra aprendizado.
